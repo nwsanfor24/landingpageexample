@@ -1,0 +1,19 @@
+{
+  "name": "landingpageexample",
+  "version": "1.0.0",
+  "description": "A mock landing-page to show potential clients",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nwsanfor24/landingpageexample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nwsanfor24/landingpageexample/issues"
+  },
+  "homepage": "https://github.com/nwsanfor24/landingpageexample#readme"
+}
